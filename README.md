@@ -26,9 +26,10 @@
 2. [Google – AI Assistants for Data Tasks with Gemma](https://www.kaggle.com/competitions/data-assistants-with-gemma/?utm_medium=social&utm_source=linkedin&utm_campaign=comp-gemma1)
 3. [Retrieval Augmented Generation - MindsDB](https://docs.mindsdb.com/integrations/ai-engines/rag#simple-example)
 4. [Tutorial Proposal: Retrieval-based Language Models and Applications](https://aclanthology.org/2023.acl-tutorials.6.pdf)
-5. [WALKING DOWN THE MEMORY MAZE: BEYOND CONTEXT LIMIT THROUGH INTERACTIVE READING](https://arxiv.org/pdf/2310.05029.pdf)
-6. [AutoGen Studio 2.0 Tutorial - Skills, Multi-Agent Teams, and REAL WORLD Use Cases (NO CODE)](https://www.youtube.com/watch?v=4ZqJSfV4818) 🔥🔥🔥
-7. [Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security](https://arxiv.org/abs/2401.05459)
+5. [Building Production-Ready RAG Applications: Jerry Liu](https://www.youtube.com/watch?v=TRjq7t2Ms5I&ab_channel=AIEngineer)
+6. [WALKING DOWN THE MEMORY MAZE: BEYOND CONTEXT LIMIT THROUGH INTERACTIVE READING](https://arxiv.org/pdf/2310.05029.pdf)
+7. [AutoGen Studio 2.0 Tutorial - Skills, Multi-Agent Teams, and REAL WORLD Use Cases (NO CODE)](https://www.youtube.com/watch?v=4ZqJSfV4818) 🔥🔥🔥
+8. [Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security](https://arxiv.org/abs/2401.05459)
 
 ### Repos / Community
 
