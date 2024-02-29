@@ -27,6 +27,14 @@
 4. [AutoGen Studio 2.0 Tutorial - Skills, Multi-Agent Teams, and REAL WORLD Use Cases (NO CODE)](https://www.youtube.com/watch?v=4ZqJSfV4818)
 5. [Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security](https://arxiv.org/abs/2401.05459)
 
+### Repos/Community
+
+1. [MicroSoft AutoGen](https://github.com/microsoft/autogen)
+2. [MicroSoft Power Virtual Agents](https://learn.microsoft.com/en-us/power-platform/release-plan/2023wave1/power-virtual-agents/)
+3. [Microsoft Copilot Studio: Make your own Copilot with no code](https://www.youtube.com/watch?v=sJUJbYEoqSo&ab_channel=MicrosoftReactor)
+4. [Google Dialogflow CX](https://cloud.google.com/dialogflow/cx/docs/basics)
+5. [Shanghai Lanma Technology AskXBOT](https://www.askxbot.com/community/)
+
 ## Video
 
 1. [EMO: Emote Portrait Alive - Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions](https://humanaigc.github.io/emote-portrait-alive/)
