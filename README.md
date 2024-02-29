@@ -7,7 +7,6 @@
 
 ## Video Generation
 
-1. [https://humanaigc.github.io/emote-portrait-alive/](EMO: Emote Portrait Alive - Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions)
-
+1. [EMO: Emote Portrait Alive - Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions](https://humanaigc.github.io/emote-portrait-alive/)
 
 ## 
