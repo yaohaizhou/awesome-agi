@@ -12,6 +12,7 @@
 ### Repos
 
 1. [google/gemma.cpp](https://github.com/google/gemma.cpp)
+2. [llama index](https://github.com/run-llama/llama_index)
 
 ## AI Agents
 
@@ -24,8 +25,10 @@
 1. [The Future of Generative AI Agents with Joon Sung Park](https://youtu.be/vVb366mGtXo?si=redp1VfHF9fWYSQd)
 2. [Google – AI Assistants for Data Tasks with Gemma](https://www.kaggle.com/competitions/data-assistants-with-gemma/?utm_medium=social&utm_source=linkedin&utm_campaign=comp-gemma1)
 3. [Retrieval Augmented Generation - MindsDB](https://docs.mindsdb.com/integrations/ai-engines/rag#simple-example)
-4. [AutoGen Studio 2.0 Tutorial - Skills, Multi-Agent Teams, and REAL WORLD Use Cases (NO CODE)](https://www.youtube.com/watch?v=4ZqJSfV4818) 🔥🔥🔥
-5. [Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security](https://arxiv.org/abs/2401.05459)
+4. [Tutorial Proposal: Retrieval-based Language Models and Applications](https://aclanthology.org/2023.acl-tutorials.6.pdf)
+5. [WALKING DOWN THE MEMORY MAZE: BEYOND CONTEXT LIMIT THROUGH INTERACTIVE READING](https://arxiv.org/pdf/2310.05029.pdf)
+6. [AutoGen Studio 2.0 Tutorial - Skills, Multi-Agent Teams, and REAL WORLD Use Cases (NO CODE)](https://www.youtube.com/watch?v=4ZqJSfV4818) 🔥🔥🔥
+7. [Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security](https://arxiv.org/abs/2401.05459)
 
 ### Repos / Community
 
