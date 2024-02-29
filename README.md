@@ -17,7 +17,7 @@
 
 ### Landscape (2024.2.29)
 
-![image](https://github.com/yaohaizhou/awesome-agi/assets/49476888/dfa602d9-b0e9-4f9f-82b1-4613bbd59b4f){:width="50%"}.
+<img src="https://github.com/yaohaizhou/awesome-agi/assets/49476888/dfa602d9-b0e9-4f9f-82b1-4613bbd59b4f" alt="drawing" style="width:200px;"/>
 
 ### Tutorial
 
