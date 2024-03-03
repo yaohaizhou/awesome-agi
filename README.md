@@ -15,6 +15,7 @@
 
 1. [google/gemma.cpp](https://github.com/google/gemma.cpp)
 2. [llama index](https://github.com/run-llama/llama_index)
+3. [gpt4all: run open-source LLMs anywhere](https://github.com/nomic-ai/gpt4all)
 
 ## AI Agents
 
