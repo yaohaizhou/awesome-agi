@@ -8,6 +8,8 @@
 1. [Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE)
 2. [LLM Engineering: Steering language models](https://www.wandb.courses/courses/steering-language-models)
 3. [Gemini 1.5 pro tech report](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf) 🔥🔥🔥
+4. [DLite V2: Lightweight, Open, Easily Customizable LLMs](https://medium.com/ai-squared/dlite-v2-lightweight-open-llms-that-can-run-anywhere-3ab59b3a7feb)
+5. [Can you really run LLMs locally on your laptop?](https://jpreagan.com/blog/can-you-really-run-llms-locally-on-your-laptop/)
 
 ### Repos
 
@@ -29,7 +31,6 @@
 5. [Building Production-Ready RAG Applications: Jerry Liu](https://www.youtube.com/watch?v=TRjq7t2Ms5I&ab_channel=AIEngineer)
 6. [WALKING DOWN THE MEMORY MAZE: BEYOND CONTEXT LIMIT THROUGH INTERACTIVE READING](https://arxiv.org/pdf/2310.05029.pdf)
 7. [AutoGen Studio 2.0 Tutorial - Skills, Multi-Agent Teams, and REAL WORLD Use Cases (NO CODE)](https://www.youtube.com/watch?v=4ZqJSfV4818) 🔥🔥🔥
-8. [Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security](https://arxiv.org/abs/2401.05459)
 
 ### Repos / Community
 
@@ -44,3 +45,7 @@
 1. [EMO: Emote Portrait Alive - Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions](https://humanaigc.github.io/emote-portrait-alive/)
 2. [Revisiting Feature Prediction for Learning Visual Representations from Video | Research - AI at Meta](https://ai.meta.com/research/publications/revisiting-feature-prediction-for-learning-visual-representations-from-video/)
 3. [Video generation models as world simulators](https://openai.com/research/video-generation-models-as-world-simulators) 🔥🔥🔥
+
+## Articles / Papers
+
+1. [Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security (Jan 10, 2024)](https://arxiv.org/abs/2401.05459)
