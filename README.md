@@ -10,6 +10,7 @@
 3. [Gemini 1.5 pro tech report](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf) 🔥🔥🔥
 4. [DLite V2: Lightweight, Open, Easily Customizable LLMs](https://medium.com/ai-squared/dlite-v2-lightweight-open-llms-that-can-run-anywhere-3ab59b3a7feb)
 5. [Can you really run LLMs locally on your laptop?](https://jpreagan.com/blog/can-you-really-run-llms-locally-on-your-laptop/)
+6. [Anthropic (@AnthropicAI) on X](https://twitter.com/AnthropicAI/status/1764653830468428150)
 
 ### Repos
 
