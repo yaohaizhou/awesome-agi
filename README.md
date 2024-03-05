@@ -3,7 +3,7 @@
 
 ## LLMs
 
-### Tutorial
+### Tutorial / Article
 
 1. [Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE)
 2. [LLM Engineering: Steering language models](https://www.wandb.courses/courses/steering-language-models)
