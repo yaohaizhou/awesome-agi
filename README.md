@@ -11,7 +11,7 @@
 4. [DLite V2: Lightweight, Open, Easily Customizable LLMs](https://medium.com/ai-squared/dlite-v2-lightweight-open-llms-that-can-run-anywhere-3ab59b3a7feb)
 5. [Can you really run LLMs locally on your laptop?](https://jpreagan.com/blog/can-you-really-run-llms-locally-on-your-laptop/)
 6. [Anthropic (@AnthropicAI) on X](https://twitter.com/AnthropicAI/status/1764653830468428150)
-7. [Stanford CS229 I Machine Learning I Building Large Language Models (LLMs)](https://www.youtube.com/watch?v=9vM4p9NN0Ts&t=64s)
+7. [Stanford CS229 I Machine Learning I Building Large Language Models (LLMs)](https://www.youtube.com/watch?v=9vM4p9NN0Ts&t=64s) 🔥🔥🔥
 8. [OpenAI’s 5 Levels Of ‘Super AI’](https://www.forbes.com/sites/jodiecook/2024/07/16/openais-5-levels-of-super-ai-agi-to-outperform-human-capability/)
 
 ### Repos
